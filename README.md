@@ -1,4 +1,4 @@
-1. This program will allow user to input an book ISBN. 
+1. This program will allow user to input a book ISBN. 
 
 2. Using the ISBN as a search parameter, this program will connect to the KEEPA API to retrieve current Amazon price, the 90 day average price, the current Sales Rank, and the 90 day average sales rank on the user input ISBN.
 
