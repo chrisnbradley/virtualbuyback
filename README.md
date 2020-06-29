@@ -6,4 +6,4 @@
 
 4. Based upon the current date of the search, the user will be given a 30 day window for the "buyback" quote to be guaranteed. The quote expiration will be displayed to the user along the returned "buyback" price.
 
-5. Request Secret Key and input for program to run locally.
+5. Request Secret Key for program to run locally.
